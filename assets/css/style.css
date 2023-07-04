@@ -40,8 +40,8 @@ PRE LOADER
 }
 
 .loaded {
-    width: 60px;
-    height: 60px;
+    width: 60vpx;
+    height: 60vpx;
     position: absolute;
     left: 50%;
     top: 50%;
